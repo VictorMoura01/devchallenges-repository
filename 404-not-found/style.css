@@ -16,7 +16,6 @@ body {
 .container {
   width: 100%;
   height: 100vh;
-  grid-template-rows: 20px 1fr 20px;
 }
 
 .header {
